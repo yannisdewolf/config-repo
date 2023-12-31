@@ -1,0 +1,7 @@
+app:
+    data:
+        inmemory: true
+    fullblownrabbit: false
+    initializedata: true
+    recipe:
+        greeting: Welcome to the recipe service from a fresh config server
